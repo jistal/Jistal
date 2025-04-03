@@ -1,17 +1,23 @@
 <h1>Xhibril Lleshi</h1>
-<h4>Online Alias: Jistal</h4>
+`Alias: Jistal`
+`Informatics Student`  
 
-<!--
-**jistal/Jistal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Currently:
+- Learning **C/C++** and practicing basic algorithms.  
+- Building small console projects to sharpen logic / skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Next Up:
+- Going deeper into **Java** / **Spring Boot** (starting second year).  
+- Exploring **backend development**.  
+- Looking for **remote internships or small projects** to build real-world experience.  
+
+---
+
+### Tools & Skills
+- **Languages:** `C`, `C++`, `Java (soon)` . 
+- **Tools:** `VS Code`.
+- **Soft skills:** `Quiet`, `Observant`, `Learns fast if it's worth it`
