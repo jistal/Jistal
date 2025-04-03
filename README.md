@@ -1,23 +1,31 @@
-<table>
-  <tr>
-    <td valign="top" width="50%">
+# Xhibril Lleshi  
+Alias: Jistal • Informatics Student
 
-      <h3>Currently</h3>
-      <ul>
-        <li><strong>C/C++:</strong> practicing basic algorithms</li>
-        <li>Building small console projects</li>
-      </ul>
 
-    </td>
-    <td valign="top" width="50%">
+---
 
-      <h3>Next Up</h3>
-      <ul>
-        <li><strong>Java / Spring Boot:</strong> starting second year</li>
-        <li>Exploring backend development</li>
-        <li>Looking for remote internships or small projects</li>
-      </ul>
+### Currently:
+- Learning **C/C++** and practicing basic algorithms.  
+- Building small console projects to sharpen logic / skills.  
 
-    </td>
-  </tr>
-</table>
+---
+
+### Next Up:
+- Going deeper into **Java** / **Spring Boot** (starting second year).  
+- Exploring **backend development**.  
+- Looking for **remote internships or small projects** to build real-world experience.  
+
+---
+
+### Tools & Skills
+- **Languages:** <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" title="Spring"/>
+- **Tools:** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" title="VS Code"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" title="Linux"/>&nbsp;
+
+- **Soft skills:** Quiet, Observant, Learns fast if it's worth it
