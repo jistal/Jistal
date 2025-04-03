@@ -27,7 +27,7 @@
 ---
 
 ### Tools & Skills 
-- **Languages:** &nbsp;&nbsp;&nbsp;- <margin:left:50px>    **Tools:** <br>                                                        
+<h4 style="padding-right: 100;">- Languages:</h4>                                       hi                                                  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" title="Java"/>
