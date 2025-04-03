@@ -38,4 +38,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" title="VS Code"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" title="Linux"/>&nbsp;
 
-- **Soft skills:** Quiet, Observant, Learns fast if it's worth it
+- **Soft skills:** `Quiet, Observant, Learns fast if it's worth it`
