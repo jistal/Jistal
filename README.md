@@ -18,6 +18,9 @@
 ---
 
 ### Tools & Skills
-- **Languages:** `C`, `C++`, `Java (soon)` . 
+- **Languages:** `C`, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="10"/>
+ `C++`, `Java (soon)` . 
 - **Tools:** `VS Code`.
 - **Soft skills:** `Quiet`, `Observant`, `Learns fast if it's worth it`
+
+
