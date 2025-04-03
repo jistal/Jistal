@@ -4,31 +4,32 @@
 
 ---
 
-<table>
-  <tr>
-    <td style="width:60%; vertical-align:top;">
-      <h3>Currently:</h3>
-      <ul>
-        <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
-        <li>Building small console projects to sharpen logic / skills.</li>
-      </ul>
-    </td>
-    <td style="width:50%; vertical-align:top;">
-      <h3>Next Up:</h3>
-      <ul>
-        <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
-        <li>Exploring <strong>backend development</strong>.</li>
-        <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; width: 100%; gap: 20px; align-items: flex-start;">
+  <!-- Currently -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Currently:</h3>
+    <ul>
+      <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
+      <li>Building small console projects to sharpen logic / skills.</li>
+    </ul>
+  </div>
+
+  <!-- Next Up -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Next Up:</h3>
+    <ul>
+      <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
+      <li>Exploring <strong>backend development</strong>.</li>
+      <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
 ### Tools & Skills
 - **Languages:** <br>
-  <img style = "padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" title="Java"/>
