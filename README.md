@@ -1,6 +1,6 @@
-<h1>Xhibril Lleshi</h1>
-`Alias: Jistal`
-`Informatics Student`  
+# Xhibril Lleshi  
+`Alias: Jistal` • `Informatics Student`
+
 
 ---
 
