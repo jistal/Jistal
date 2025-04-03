@@ -27,7 +27,7 @@
 ---
 
 ### Tools & Skills 
-- **Languages:**                                                                                                         -     **Tools:** <br>                                                        
+- **Languages:** &nbsp;&nbsp;&nbsp;-     **Tools:** <br>                                                        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" title="Java"/>
