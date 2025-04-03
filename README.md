@@ -2,7 +2,7 @@
 Alias: Jistal • Informatics Student
 
 
-
+---
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ Alias: Jistal • Informatics Student
   </tr>
 </table>
 
-
+---
 
 ### Tools & Skills
 - **Languages:** <br>
