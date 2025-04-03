@@ -7,7 +7,7 @@
 <table style="width: 100%; border: 0; border-collapse: collapse;">
   <tr>
     <!-- LEFT COLUMN -->
-    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 60%; vertical-align: top; padding-right: 20px;">
       <h3 style="margin-top: 0;">Currently:</h3>
       <ul>
         <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
@@ -15,7 +15,7 @@
       </ul>
     </td>
     <!-- RIGHT COLUMN -->
-    <td style="width: 50%; vertical-align: top; padding-left: 20px;">
+    <td style="width: 40%; vertical-align: top; padding-left: 20px;">
       <h3 style="margin-top: 0;">Next Up:</h3>
       <ul>
         <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
