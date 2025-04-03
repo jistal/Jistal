@@ -2,20 +2,29 @@
 Alias: Jistal • Informatics Student
 
 
----
 
-### Currently:
-- Learning **C/C++** and practicing basic algorithms.  
-- Building small console projects to sharpen logic / skills.  
 
----
+<table>
+  <tr>
+    <td style="width:50%; vertical-align:top;">
+      <h3>Currently:</h3>
+      <ul>
+        <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
+        <li>Building small console projects to sharpen logic / skills.</li>
+      </ul>
+    </td>
+    <td style="width:50%; vertical-align:top;">
+      <h3>Next Up:</h3>
+      <ul>
+        <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
+        <li>Exploring <strong>backend development</strong>.</li>
+        <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Next Up:
-- Going deeper into **Java** / **Spring Boot** (starting second year).  
-- Exploring **backend development**.  
-- Looking for **remote internships or small projects** to build real-world experience.  
 
----
 
 ### Tools & Skills
 - **Languages:** <br>
