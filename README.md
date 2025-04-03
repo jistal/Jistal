@@ -4,26 +4,27 @@
 
 ---
 
-<div style="display: flex; width: 100%; gap: 20px; align-items: flex-start;">
-
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Currently:</h3>
-    <ul>
-      <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
-      <li>Building small console projects to sharpen logic / skills.</li>
-    </ul>
-  </div>
-
-
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Next Up:</h3>
-    <ul>
-      <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
-      <li>Exploring <strong>backend development</strong>.</li>
-      <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
-    </ul>
-  </div>
-</div>
+<table style="width: 100%; border: 0; border-collapse: collapse;">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+      <h3 style="margin-top: 0;">Currently:</h3>
+      <ul>
+        <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
+        <li>Building small console projects to sharpen logic / skills.</li>
+      </ul>
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td style="width: 50%; vertical-align: top; padding-left: 20px;">
+      <h3 style="margin-top: 0;">Next Up:</h3>
+      <ul>
+        <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
+        <li>Exploring <strong>backend development</strong>.</li>
+        <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
