@@ -21,7 +21,12 @@
   </div>
 </div>
 
-<hr style="height:1px; border:none; background-color:#333;" />
+
+
+---
+
+
+
 
 ### Tools & Skills 
 - **Languages & Frameworks:** <br>                                                                           
