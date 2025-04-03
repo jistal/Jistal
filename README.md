@@ -1,12 +1,12 @@
 # Xhibril Lleshi  
-Alias: Jistal • Informatics Student
+`Alias: Jistal • Informatics Student`
 
 
 ---
 
 <table>
   <tr>
-    <td style="width:50%; vertical-align:top;">
+    <td style="width:60%; vertical-align:top;">
       <h3>Currently:</h3>
       <ul>
         <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
