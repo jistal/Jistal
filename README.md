@@ -7,7 +7,7 @@
 <table style="width: 100%; border: 0; border-collapse: collapse;">
   <tr>
     <!-- LEFT COLUMN -->
-    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
+    <td style="width: 50%; vertical-align: top; padding-right: 180px;">
       <h3 style="margin-top: 0;">Currently:</h3>
       <ul>
         <li>Learning <strong>C/C++</strong> and practicing basic algorithms.</li>
