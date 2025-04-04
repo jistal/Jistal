@@ -16,7 +16,6 @@
     <ul>
       <li>Going deeper into <strong>Java</strong> / <strong>Spring Boot</strong> (starting second year).</li>
       <li>Exploring <strong>backend development</strong>.</li>
-      <li>Looking for <strong>remote internships or small projects</strong> to build real-world experience.</li>
     </ul>
   </div>
 </div>
