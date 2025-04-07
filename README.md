@@ -1,7 +1,7 @@
 
 `Alias: Jistal • Informatics Student`
 
-<div style="display: flex; width: 100%; gap: 20px; align-items: flex-start;">
+<!-- <div style="display: flex; width: 100%; gap: 20px; align-items: flex-start;">
   
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">⚙️ Currently:</h3>
@@ -22,7 +22,7 @@
 
 
 
----
+--- -->
 
 
 
